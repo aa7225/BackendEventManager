@@ -1,3 +1,4 @@
 .env
 __pycache__/
 node_modules/
+MONGO_URI=mongodb+srv://aa7225:qwerty!1@cluster0.abcde.mongodb.net/event_db?retryWrites=true&w=majority
