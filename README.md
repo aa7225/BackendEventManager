@@ -7,7 +7,7 @@ Built with Python, FastAPI, and MongoDB.
 - Statistics and Keyword Search
 
 ## How to Test
-1. Visit the live link: [YOUR_RENDER_URL_HERE]
+1. Visit the live link:https://backendeventmanager.onrender.com/docs#/
 2. Use the `/docs` endpoint for interactive API testing.
 
 
